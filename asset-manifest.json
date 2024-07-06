@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ComminSoon/static/css/main.1633dc12.css",
+    "main.js": "/ComminSoon/static/js/main.682d0753.js",
+    "static/media/video.mp4": "/ComminSoon/static/media/video.05333f83a3b88761ce33.mp4",
+    "index.html": "/ComminSoon/index.html",
+    "main.1633dc12.css.map": "/ComminSoon/static/css/main.1633dc12.css.map",
+    "main.682d0753.js.map": "/ComminSoon/static/js/main.682d0753.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1633dc12.css",
+    "static/js/main.682d0753.js"
+  ]
+}
